@@ -1,2 +1,2 @@
 # IntuitCell
-A collection of Python script to analyze genome-scale stoichiometric matrices
+A collection of Python scripts to analyze genome-scale stoichiometric matrices
